@@ -1,0 +1,13 @@
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\bin\Release\netcoreapp3.1\XAndOOnCSharp.exe
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\bin\Release\netcoreapp3.1\XAndOOnCSharp.deps.json
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\bin\Release\netcoreapp3.1\XAndOOnCSharp.runtimeconfig.json
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\bin\Release\netcoreapp3.1\XAndOOnCSharp.runtimeconfig.dev.json
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\bin\Release\netcoreapp3.1\XAndOOnCSharp.dll
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\bin\Release\netcoreapp3.1\XAndOOnCSharp.pdb
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\obj\Release\netcoreapp3.1\XAndOOnCSharp.csproj.AssemblyReference.cache
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\obj\Release\netcoreapp3.1\XAndOOnCSharp.AssemblyInfoInputs.cache
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\obj\Release\netcoreapp3.1\XAndOOnCSharp.AssemblyInfo.cs
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\obj\Release\netcoreapp3.1\XAndOOnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\obj\Release\netcoreapp3.1\XAndOOnCSharp.dll
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\obj\Release\netcoreapp3.1\XAndOOnCSharp.pdb
+C:\Users\Xarda\source\repos\XAndOOnCSharp\XAndOOnCSharp\obj\Release\netcoreapp3.1\XAndOOnCSharp.genruntimeconfig.cache

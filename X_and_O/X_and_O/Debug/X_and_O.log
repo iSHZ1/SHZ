@@ -1,11 +1,11 @@
 ﻿  X_and_O.cpp
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(82,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(85,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(87,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(115,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(207,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(223,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(267,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(269,27): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Xarda\source\repos\X_and_O\X_and_O\X_and_O.cpp(202): warning C4715: GetAICoor: значение возвращается не при всех путях выполнения
-  X_and_O.vcxproj -> C:\Users\Xarda\source\repos\X_and_O\Debug\X_and_O.exe
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(82,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(85,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(87,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(115,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(207,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(223,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(267,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(269,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\GitHub\SHZ\X_and_O\X_and_O\X_and_O.cpp(202): warning C4715: GetAICoor: значение возвращается не при всех путях выполнения
+  X_and_O.vcxproj -> D:\GitHub\SHZ\X_and_O\Debug\X_and_O.exe
